@@ -1,0 +1,5 @@
+# Core latex/pdflatex auxiliaries:
+*.aux
+*.out
+*.log
+*.pdf
