@@ -28,6 +28,8 @@ To compile the PDF from the LaTeX source code, you will need a LaTeX distributio
 ## 📁 Repository Structure
 
 *   `deonGeorge.tex`: The main LaTeX source file containing the resume content, sections, and styling.
+*   `deonGeorge.pdf`: The compiled, ready-to-view PDF version of the resume.
+*   `.gitignore`: Git configuration to ignore temporary LaTeX build artifacts.
 *   `README.md`: This file, providing an overview of the repository.
 
 ---
